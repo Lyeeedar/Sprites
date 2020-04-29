@@ -23,7 +23,7 @@
 					</Layer>
 				</Layers>
 			</Sprite>
-			<Chance>0.1</Chance>
+			<Chance>0.01</Chance>
 		</Sprite>
 		<Sprite>
 			<Sprite meta:RefKey="RenderedLayeredSprite">
@@ -37,7 +37,7 @@
 					</Layer>
 				</Layers>
 			</Sprite>
-			<Chance>0.1</Chance>
+			<Chance>0.15</Chance>
 		</Sprite>
 		<Sprite>
 			<Sprite meta:RefKey="RenderedLayeredSprite">
@@ -51,7 +51,7 @@
 					</Layer>
 				</Layers>
 			</Sprite>
-			<Chance>0.1</Chance>
+			<Chance>0.15</Chance>
 		</Sprite>
 		<Sprite>
 			<Sprite meta:RefKey="RenderedLayeredSprite">
