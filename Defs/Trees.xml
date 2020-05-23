@@ -1,83 +1,41 @@
 <SpriteWrapper xmlns:meta="Editor">
-	<Sprite meta:RefKey="RenderedLayeredSprite">
-		<Layers>
-			<Layer>
-				<Name>grass</Name>
-			</Layer>
-			<Layer>
-				<Name>Oryx/Custom/terrain/tree1</Name>
-				<DrawActualSize>true</DrawActualSize>
-			</Layer>
-		</Layers>
+	<Sprite meta:RefKey="Sprite">
+		<Name>Oryx/Custom/terrain/tree1</Name>
+		<DrawActualSize>true</DrawActualSize>
 	</Sprite>
 	<SpriteVariants>
 		<Sprite>
-			<Sprite meta:RefKey="RenderedLayeredSprite">
-				<Layers>
-					<Layer>
-						<Name>grass</Name>
-					</Layer>
-					<Layer>
-						<Name>Oryx/Custom/terrain/tree1_1</Name>
-						<DrawActualSize>true</DrawActualSize>
-					</Layer>
-				</Layers>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/Custom/terrain/tree1_1</Name>
+				<DrawActualSize>true</DrawActualSize>
 			</Sprite>
 			<Chance>0.01</Chance>
 		</Sprite>
 		<Sprite>
-			<Sprite meta:RefKey="RenderedLayeredSprite">
-				<Layers>
-					<Layer>
-						<Name>grass</Name>
-					</Layer>
-					<Layer>
-						<Name>Oryx/Custom/terrain/tree1_2</Name>
-						<DrawActualSize>true</DrawActualSize>
-					</Layer>
-				</Layers>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/Custom/terrain/tree1_2</Name>
+				<DrawActualSize>true</DrawActualSize>
 			</Sprite>
 			<Chance>0.15</Chance>
 		</Sprite>
 		<Sprite>
-			<Sprite meta:RefKey="RenderedLayeredSprite">
-				<Layers>
-					<Layer>
-						<Name>grass</Name>
-					</Layer>
-					<Layer>
-						<Name>Oryx/Custom/terrain/tree1_3</Name>
-						<DrawActualSize>true</DrawActualSize>
-					</Layer>
-				</Layers>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/Custom/terrain/tree1_3</Name>
+				<DrawActualSize>true</DrawActualSize>
 			</Sprite>
 			<Chance>0.15</Chance>
 		</Sprite>
 		<Sprite>
-			<Sprite meta:RefKey="RenderedLayeredSprite">
-				<Layers>
-					<Layer>
-						<Name>grass</Name>
-					</Layer>
-					<Layer>
-						<Name>Oryx/Custom/terrain/tree3</Name>
-						<DrawActualSize>true</DrawActualSize>
-					</Layer>
-				</Layers>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/Custom/terrain/tree3</Name>
+				<DrawActualSize>true</DrawActualSize>
 			</Sprite>
 			<Chance>0.05</Chance>
 		</Sprite>
 		<Sprite>
-			<Sprite meta:RefKey="RenderedLayeredSprite">
-				<Layers>
-					<Layer>
-						<Name>grass</Name>
-					</Layer>
-					<Layer>
-						<Name>Oryx/Custom/terrain/tree4</Name>
-						<DrawActualSize>true</DrawActualSize>
-					</Layer>
-				</Layers>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/Custom/terrain/tree4</Name>
+				<DrawActualSize>true</DrawActualSize>
 			</Sprite>
 			<Chance>0.01</Chance>
 		</Sprite>
