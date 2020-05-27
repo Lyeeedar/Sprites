@@ -1,0 +1,14 @@
+<SpriteWrapper xmlns:meta="Editor">
+	<Sprite meta:RefKey="Sprite">
+		<Name>Oryx/uf_split/uf_terrain/water_teal</Name>
+	</Sprite>
+	<TilingSprite meta:RefKey="TilingSprite">
+		<Name>water</Name>
+		<Mode>Masked</Mode>
+		<Mask>Masks/indent</Mask>
+		<Sprite meta:RefKey="Sprite">
+			<Name>white</Name>
+			<Colour>255,255,255,161</Colour>
+		</Sprite>
+	</TilingSprite>
+</SpriteWrapper>
