@@ -1,0 +1,31 @@
+<SpriteWrapper xmlns:meta="Editor">
+	<Sprite meta:RefKey="Sprite">
+		<Name>Oryx/uf_split/uf_terrain/floor_set_grey_1</Name>
+	</Sprite>
+	<SpriteVariants>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/uf_split/uf_terrain/floor_set_grey_2</Name>
+			</Sprite>
+			<Chance>0.1</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/uf_split/uf_terrain/floor_set_grey_3</Name>
+			</Sprite>
+			<Chance>0.05</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/uf_split/uf_terrain/floor_set_grey_4</Name>
+			</Sprite>
+			<Chance>0.01</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>Oryx/uf_split/uf_terrain/floor_set_grey_5</Name>
+			</Sprite>
+			<Chance>0.01</Chance>
+		</Sprite>
+	</SpriteVariants>
+</SpriteWrapper>
