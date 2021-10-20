@@ -2,5 +2,14 @@
 	<Sprite meta:RefKey="Sprite">
 		<Name>darkest/terrain/tree</Name>
 		<DrawActualSize>true</DrawActualSize>
+		<Colour>255,255,255,255</Colour>
+		<Shadow meta:RefKey="Shadow">
+			<Texture meta:RefKey="TextureRegion">
+				<File>darkest/terrain/canopy</File>
+			</Texture>
+			<Colour>0,0,0,92</Colour>
+			<Scale>6</Scale>
+			<Offset>0,0.5</Offset>
+		</Shadow>
 	</Sprite>
 </SpriteWrapper>
