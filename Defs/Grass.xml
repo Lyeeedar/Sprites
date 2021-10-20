@@ -1,23 +1,23 @@
 <SpriteWrapper xmlns:meta="Editor">
 	<Sprite meta:RefKey="Sprite">
-		<Name>Oryx/uf_split/uf_terrain/ground_grass_1</Name>
+		<Name>darkest/terrain/grass</Name>
 	</Sprite>
 	<SpriteVariants>
 		<Sprite>
 			<Sprite meta:RefKey="Sprite">
-				<Name>Oryx/uf_split/uf_terrain/ground_grass_4</Name>
+				<Name>darkest/terrain/grass_4</Name>
 			</Sprite>
 			<Chance>0.1</Chance>
 		</Sprite>
 		<Sprite>
 			<Sprite meta:RefKey="Sprite">
-				<Name>Oryx/uf_split/uf_terrain/ground_grass_3</Name>
+				<Name>darkest/terrain/grass_3</Name>
 			</Sprite>
 			<Chance>0.05</Chance>
 		</Sprite>
 		<Sprite>
 			<Sprite meta:RefKey="Sprite">
-				<Name>Oryx/uf_split/uf_terrain/ground_grass_2</Name>
+				<Name>darkest/terrain/grass_2</Name>
 			</Sprite>
 			<Chance>0.01</Chance>
 		</Sprite>
