@@ -1,0 +1,48 @@
+
+blast_axe.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+axe
+  rotate: false
+  xy: 2, 2
+  size: 44, 112
+  orig: 44, 112
+  offset: 0, 0
+  index: -1
+shell5
+  rotate: false
+  xy: 46, 91
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shell4
+  rotate: false
+  xy: 47, 53
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+shell3
+  rotate: false
+  xy: 30, 91
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+shell2
+  rotate: false
+  xy: 49, 3
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shell1
+  rotate: false
+  xy: 32, 75
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
