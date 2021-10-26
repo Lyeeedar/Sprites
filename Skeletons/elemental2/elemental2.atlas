@@ -1,48 +1,48 @@
 
 elemental2.png
-size: 512,256
+size: 179,310
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-shadow
+library/arm
   rotate: false
-  xy: 74, 4
-  size: 122, 101
-  orig: 122, 101
-  offset: 0, 0
+  xy: 2, 85
+  size: 93, 99
+  orig: 256, 256
+  offset: 120, 110
   index: -1
-body4
+library/body1
   rotate: false
-  xy: 148, 111
-  size: 63, 86
-  orig: 63, 86
-  offset: 0, 0
+  xy: 105, 195
+  size: 69, 113
+  orig: 256, 256
+  offset: 104, 45
   index: -1
-body3
-  rotate: false
-  xy: 87, 104
-  size: 58, 102
-  orig: 58, 102
-  offset: 0, 0
-  index: -1
-body2
-  rotate: false
-  xy: 5, 118
+library/body2
+  rotate: true
+  xy: 2, 10
   size: 73, 110
-  orig: 73, 110
-  offset: 0, 0
+  orig: 256, 256
+  offset: 87, 64
   index: -1
-body1
+library/body3
   rotate: false
-  xy: 2, 2
-  size: 68, 114
-  orig: 68, 114
-  offset: 0, 0
+  xy: 105, 90
+  size: 58, 103
+  orig: 256, 256
+  offset: 79, 90
   index: -1
-arm
+library/body4
   rotate: false
-  xy: 176, 3
-  size: 112, 98
-  orig: 112, 98
-  offset: 0, 0
+  xy: 114, 2
+  size: 63, 86
+  orig: 256, 256
+  offset: 64, 110
+  index: -1
+library/shadow
+  rotate: true
+  xy: 2, 186
+  size: 122, 101
+  orig: 256, 256
+  offset: 71, 11
   index: -1

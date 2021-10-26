@@ -1,48 +1,48 @@
 
 blast_axe.png
-size: 64,128
+size: 141,50
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 axe
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 2, 4
   size: 44, 112
-  orig: 44, 112
-  offset: 0, 0
-  index: -1
-shell5
-  rotate: false
-  xy: 46, 91
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
-shell4
-  rotate: false
-  xy: 47, 53
-  size: 13, 9
-  orig: 13, 9
-  offset: 0, 0
-  index: -1
-shell3
-  rotate: false
-  xy: 30, 91
-  size: 13, 11
-  orig: 13, 11
-  offset: 0, 0
-  index: -1
-shell2
-  rotate: false
-  xy: 49, 3
-  size: 12, 10
-  orig: 12, 10
-  offset: 0, 0
+  orig: 128, 128
+  offset: 49, 5
   index: -1
 shell1
-  rotate: false
-  xy: 32, 75
-  size: 14, 12
-  orig: 14, 12
-  offset: 0, 0
+  rotate: true
+  xy: 116, 33
+  size: 15, 12
+  orig: 128, 128
+  offset: 50, 93
+  index: -1
+shell2
+  rotate: true
+  xy: 130, 35
+  size: 13, 9
+  orig: 128, 128
+  offset: 50, 88
+  index: -1
+shell3
+  rotate: true
+  xy: 116, 2
+  size: 13, 10
+  orig: 128, 128
+  offset: 50, 81
+  index: -1
+shell4
+  rotate: true
+  xy: 116, 17
+  size: 14, 10
+  orig: 128, 128
+  offset: 50, 74
+  index: -1
+shell5
+  rotate: true
+  xy: 128, 20
+  size: 11, 10
+  orig: 128, 128
+  offset: 51, 68
   index: -1

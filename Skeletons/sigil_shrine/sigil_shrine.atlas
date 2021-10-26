@@ -1,34 +1,34 @@
 
 sigil_shrine.png
-size: 517,775
+size: 575,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-shadow
-  rotate: false
-  xy: 259, 1
-  size: 256, 256
+orb
+  rotate: true
+  xy: 241, 18
+  size: 108, 103
   orig: 256, 256
-  offset: 0, 0
+  offset: 80, 149
   index: -1
 ring_back
   rotate: false
-  xy: 1, 1
-  size: 256, 256
+  xy: 346, 70
+  size: 227, 56
   orig: 256, 256
-  offset: 0, 0
-  index: -1
-orb
-  rotate: false
-  xy: 1, 259
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
+  offset: 29, 58
   index: -1
 ring_front
   rotate: false
-  xy: 1, 517
-  size: 256, 256
+  xy: 346, 2
+  size: 223, 66
   orig: 256, 256
-  offset: 0, 0
+  offset: 22, 11
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 9
+  size: 237, 117
+  orig: 256, 256
+  offset: 19, 0
   index: -1

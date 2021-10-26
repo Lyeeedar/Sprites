@@ -1,62 +1,62 @@
 
 pc_male.png
-size: 256,256
+size: 353,149
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-shadow
+library/arml
   rotate: false
-  xy: 2, 2
-  size: 169, 53
-  orig: 169, 53
-  offset: 0, 0
+  xy: 300, 40
+  size: 51, 107
+  orig: 256, 256
+  offset: 140, 87
   index: -1
-arml
-  rotate: false
-  xy: 73, 139
-  size: 50, 107
-  orig: 50, 107
-  offset: 0, 0
+library/armr
+  rotate: true
+  xy: 173, 54
+  size: 46, 118
+  orig: 256, 256
+  offset: 83, 76
   index: -1
-legl
+library/cape
   rotate: false
-  xy: 190, 128
-  size: 50, 109
-  orig: 50, 109
-  offset: 0, 0
+  xy: 276, 4
+  size: 30, 34
+  orig: 256, 256
+  offset: 106, 168
   index: -1
-legr
+library/head
   rotate: false
-  xy: 172, 2
+  xy: 105, 18
+  size: 59, 74
+  orig: 256, 256
+  offset: 111, 178
+  index: -1
+library/legl
+  rotate: true
+  xy: 166, 2
+  size: 50, 108
+  orig: 256, 256
+  offset: 120, 19
+  index: -1
+library/legr
+  rotate: true
+  xy: 173, 102
   size: 45, 125
-  orig: 45, 125
-  offset: 0, 0
+  orig: 256, 256
+  offset: 98, 2
   index: -1
-torso
+library/shadow
   rotate: false
-  xy: 9, 58
+  xy: 2, 94
+  size: 169, 53
+  orig: 256, 256
+  offset: 44, 0
+  index: -1
+library/torso
+  rotate: true
+  xy: 2, 17
   size: 75, 101
-  orig: 75, 101
-  offset: 0, 0
-  index: -1
-head
-  rotate: false
-  xy: 89, 59
-  size: 60, 74
-  orig: 60, 74
-  offset: 0, 0
-  index: -1
-cape
-  rotate: false
-  xy: 13, 162
-  size: 30, 35
-  orig: 30, 35
-  offset: 0, 0
-  index: -1
-armr
-  rotate: false
-  xy: 142, 122
-  size: 47, 119
-  orig: 47, 119
-  offset: 0, 0
+  orig: 256, 256
+  offset: 95, 103
   index: -1
