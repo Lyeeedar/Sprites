@@ -1,0 +1,5 @@
+<Skeleton xmlns:meta="Editor">
+	<Path>Sprites/Skeletons/sigil_shrine/sigil_shrine</Path>
+	<AnimGraph>Sprites/Skeletons/sigil_shrine/sigil_shrine_anim</AnimGraph>
+	<Colour>255,255,255,255</Colour>
+</Skeleton>
