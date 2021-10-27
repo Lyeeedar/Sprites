@@ -1,55 +1,55 @@
 
 goblin.png
-size: 2048,2048
+size: 328,643
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-shadow
+library/arml
   rotate: false
-  xy: 515, 515
-  size: 512, 512
+  xy: 2, 2
+  size: 114, 174
   orig: 512, 512
-  offset: 0, 0
+  offset: 275, 148
   index: -1
-legl
+library/armr
   rotate: false
-  xy: 1, 1029
-  size: 512, 512
+  xy: 129, 246
+  size: 117, 199
   orig: 512, 512
-  offset: 0, 0
+  offset: 106, 124
   index: -1
-legr
+library/head
   rotate: false
-  xy: 515, 1
-  size: 512, 512
+  xy: 2, 447
+  size: 265, 194
   orig: 512, 512
-  offset: 0, 0
+  offset: 149, 308
   index: -1
-arml
-  rotate: false
-  xy: 1, 515
-  size: 512, 512
+library/legl
+  rotate: true
+  xy: 118, 19
+  size: 111, 165
   orig: 512, 512
-  offset: 0, 0
+  offset: 245, 13
   index: -1
-torso
-  rotate: false
-  xy: 515, 1029
-  size: 512, 512
+library/legr
+  rotate: true
+  xy: 129, 132
+  size: 112, 183
   orig: 512, 512
-  offset: 0, 0
+  offset: 156, 0
   index: -1
-armr
-  rotate: false
-  xy: 1029, 1
-  size: 512, 512
+library/shadow
+  rotate: true
+  xy: 269, 325
+  size: 316, 57
   orig: 512, 512
-  offset: 0, 0
+  offset: 84, 0
   index: -1
-head
+library/torso
   rotate: false
-  xy: 1, 1
-  size: 512, 512
+  xy: 2, 178
+  size: 125, 267
   orig: 512, 512
-  offset: 0, 0
+  offset: 183, 102
   index: -1

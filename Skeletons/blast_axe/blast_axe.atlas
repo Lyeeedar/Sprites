@@ -46,3 +46,51 @@ shell5
   orig: 128, 128
   offset: 51, 68
   index: -1
+
+blast_axe2.png
+size: 131,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+library/axe
+  rotate: true
+  xy: 2, 2
+  size: 34, 107
+  orig: 128, 128
+  offset: 56, 7
+  index: -1
+library/shell1
+  rotate: true
+  xy: 111, 16
+  size: 9, 6
+  orig: 128, 128
+  offset: 52, 96
+  index: -1
+library/shell2
+  rotate: true
+  xy: 111, 27
+  size: 9, 7
+  orig: 128, 128
+  offset: 52, 89
+  index: -1
+library/shell3
+  rotate: false
+  xy: 111, 8
+  size: 9, 6
+  orig: 128, 128
+  offset: 52, 83
+  index: -1
+library/shell4
+  rotate: false
+  xy: 119, 19
+  size: 9, 6
+  orig: 128, 128
+  offset: 52, 76
+  index: -1
+library/shell5
+  rotate: false
+  xy: 120, 30
+  size: 9, 6
+  orig: 128, 128
+  offset: 52, 70
+  index: -1

@@ -1,34 +1,89 @@
 
 sigil_shrine.png
-size: 575,128
+size: 228,551
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+bottom_ring
+  rotate: true
+  xy: 128, 231
+  size: 208, 98
+  orig: 256, 256
+  offset: 31, 15
+  index: -1
+middle_ring
+  rotate: false
+  xy: 2, 2
+  size: 167, 79
+  orig: 256, 256
+  offset: 51, 66
+  index: -1
 orb
   rotate: true
-  xy: 241, 18
+  xy: 121, 441
   size: 108, 103
   orig: 256, 256
   offset: 80, 149
   index: -1
 ring_back
-  rotate: false
-  xy: 346, 70
+  rotate: true
+  xy: 2, 83
   size: 227, 56
   orig: 256, 256
   offset: 29, 58
   index: -1
 ring_front
-  rotate: false
-  xy: 346, 2
+  rotate: true
+  xy: 60, 87
   size: 223, 66
   orig: 256, 256
   offset: 22, 11
   index: -1
 shadow
-  rotate: false
-  xy: 2, 9
+  rotate: true
+  xy: 2, 312
   size: 237, 117
   orig: 256, 256
   offset: 19, 0
+  index: -1
+top_ring
+  rotate: true
+  xy: 128, 96
+  size: 133, 63
+  orig: 256, 256
+  offset: 68, 117
+  index: -1
+
+sigil_shrine2.png
+size: 545,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+library/orb
+  rotate: true
+  xy: 235, 12
+  size: 101, 98
+  orig: 256, 256
+  offset: 85, 153
+  index: -1
+library/ring_back
+  rotate: false
+  xy: 335, 2
+  size: 208, 50
+  orig: 256, 256
+  offset: 31, 63
+  index: -1
+library/ring_front
+  rotate: false
+  xy: 335, 54
+  size: 208, 59
+  orig: 256, 256
+  offset: 31, 15
+  index: -1
+library/shadow
+  rotate: false
+  xy: 2, 2
+  size: 231, 111
+  orig: 256, 256
+  offset: 23, 3
   index: -1
