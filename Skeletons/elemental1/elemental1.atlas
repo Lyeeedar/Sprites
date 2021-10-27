@@ -1,33 +1,60 @@
 
 elemental1.png
-size: 413,185
+size: 218,308
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 library/arml
-  rotate: false
-  xy: 346, 26
-  size: 65, 157
+  rotate: true
+  xy: 2, 2
+  size: 54, 148
   orig: 256, 256
-  offset: 191, 42
+  offset: 195, 47
   index: -1
 library/armr
-  rotate: true
-  xy: 142, 95
-  size: 88, 191
+  rotate: false
+  xy: 145, 126
+  size: 71, 180
   orig: 256, 256
-  offset: 14, 15
+  offset: 20, 22
   index: -1
 library/shadow
   rotate: false
-  xy: 142, 30
+  xy: 2, 58
   size: 202, 63
   orig: 256, 256
   offset: 36, 15
   index: -1
 library/torso
   rotate: false
+  xy: 2, 123
+  size: 141, 183
+  orig: 256, 256
+  offset: 63, 39
+  index: -1
+
+elemental12.png
+size: 275,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+metal/arml
+  rotate: true
   xy: 2, 2
+  size: 65, 157
+  orig: 256, 256
+  offset: 191, 42
+  index: -1
+metal/armr
+  rotate: false
+  xy: 185, 16
+  size: 88, 191
+  orig: 256, 256
+  offset: 14, 15
+  index: -1
+metal/torso
+  rotate: true
+  xy: 2, 69
   size: 138, 181
   orig: 256, 256
   offset: 68, 37
