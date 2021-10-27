@@ -1,0 +1,110 @@
+
+skeleton.png
+size: 196,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+metal/orb
+  rotate: false
+  xy: 51, 67
+  size: 81, 81
+  orig: 256, 256
+  offset: 93, 115
+  index: -1
+metal/pillar_back
+  rotate: false
+  xy: 134, 14
+  size: 47, 132
+  orig: 256, 256
+  offset: 108, 83
+  index: -1
+metal/pillar_l
+  rotate: true
+  xy: 2, 150
+  size: 59, 148
+  orig: 256, 256
+  offset: 65, 43
+  index: -1
+metal/pillar_r
+  rotate: false
+  xy: 2, 2
+  size: 47, 146
+  orig: 256, 256
+  offset: 140, 47
+  index: -1
+metal/shadow
+  rotate: false
+  xy: 2, 211
+  size: 178, 93
+  orig: 256, 256
+  offset: 30, 24
+  index: -1
+metal/spikes_back
+  rotate: true
+  xy: 51, 6
+  size: 59, 77
+  orig: 256, 256
+  offset: 106, 118
+  index: -1
+metal/spikes_front
+  rotate: false
+  xy: 152, 148
+  size: 42, 61
+  orig: 256, 256
+  offset: 106, 106
+  index: -1
+
+skeleton2.png
+size: 415,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+none/orb
+  rotate: true
+  xy: 330, 4
+  size: 74, 83
+  orig: 256, 256
+  offset: 97, 114
+  index: -1
+none/pillar_back
+  rotate: true
+  xy: 189, 48
+  size: 51, 139
+  orig: 256, 256
+  offset: 105, 80
+  index: -1
+none/pillar_l
+  rotate: true
+  xy: 189, 101
+  size: 60, 153
+  orig: 256, 256
+  offset: 64, 42
+  index: -1
+none/pillar_r
+  rotate: true
+  xy: 2, 4
+  size: 54, 164
+  orig: 256, 256
+  offset: 139, 40
+  index: -1
+none/shadow
+  rotate: false
+  xy: 2, 60
+  size: 185, 101
+  orig: 256, 256
+  offset: 25, 22
+  index: -1
+none/spikes_back
+  rotate: false
+  xy: 344, 80
+  size: 64, 81
+  orig: 256, 256
+  offset: 105, 116
+  index: -1
+none/spikes_front
+  rotate: true
+  xy: 168, 2
+  size: 44, 65
+  orig: 256, 256
+  offset: 105, 104
+  index: -1
