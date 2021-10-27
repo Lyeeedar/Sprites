@@ -1,0 +1,14 @@
+<SpriteWrapper xmlns:meta="Editor">
+	<Sprite meta:RefKey="Sprite">
+		<Name>darkest/terrain/tree_metal</Name>
+		<DrawActualSize>true</DrawActualSize>
+		<Colour>255,255,255,255</Colour>
+		<Shadow meta:RefKey="Shadow">
+			<Texture meta:RefKey="TextureRegion">
+				<File>darkest/terrain/canopy_metal</File>
+			</Texture>
+			<Scale>6</Scale>
+			<Offset>0,0.5</Offset>
+		</Shadow>
+	</Sprite>
+</SpriteWrapper>

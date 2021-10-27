@@ -1,0 +1,43 @@
+<SpriteWrapper xmlns:meta="Editor">
+	<Sprite meta:RefKey="Sprite">
+		<Name>darkest/terrain/floor_metal</Name>
+		<Colour>255,255,255,255</Colour>
+	</Sprite>
+	<SpriteVariants>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>darkest/terrain/floor_metal_1</Name>
+				<Colour>255,255,255,255</Colour>
+			</Sprite>
+			<Chance>0.003</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>darkest/terrain/floor_metal_2</Name>
+				<Colour>255,255,255,255</Colour>
+			</Sprite>
+			<Chance>0.05</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>darkest/terrain/floor_metal_3</Name>
+				<Colour>255,255,255,255</Colour>
+			</Sprite>
+			<Chance>0.05</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>darkest/terrain/floor_metal_4</Name>
+				<Colour>255,255,255,255</Colour>
+			</Sprite>
+			<Chance>0.01</Chance>
+		</Sprite>
+		<Sprite>
+			<Sprite meta:RefKey="Sprite">
+				<Name>darkest/terrain/floor_metal_5</Name>
+				<Colour>255,255,255,255</Colour>
+			</Sprite>
+			<Chance>0.05</Chance>
+		</Sprite>
+	</SpriteVariants>
+</SpriteWrapper>

@@ -46,3 +46,51 @@ library/shadow
   orig: 256, 256
   offset: 71, 11
   index: -1
+
+elemental22.png
+size: 423,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+metal/arm
+  rotate: true
+  xy: 98, 18
+  size: 100, 86
+  orig: 256, 256
+  offset: 122, 119
+  index: -1
+metal/body1
+  rotate: false
+  xy: 186, 7
+  size: 64, 111
+  orig: 256, 256
+  offset: 106, 47
+  index: -1
+metal/body2
+  rotate: false
+  xy: 252, 12
+  size: 56, 106
+  orig: 256, 256
+  offset: 95, 66
+  index: -1
+metal/body3
+  rotate: false
+  xy: 310, 19
+  size: 52, 99
+  orig: 256, 256
+  offset: 82, 92
+  index: -1
+metal/body4
+  rotate: false
+  xy: 364, 38
+  size: 57, 80
+  orig: 256, 256
+  offset: 65, 113
+  index: -1
+metal/shadow
+  rotate: true
+  xy: 2, 2
+  size: 116, 94
+  orig: 256, 256
+  offset: 75, 16
+  index: -1
