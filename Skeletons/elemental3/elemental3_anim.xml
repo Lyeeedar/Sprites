@@ -1,0 +1,68 @@
+<AnimationGraph meta:X="0" meta:Y="0" GUID="a38db20a-1899-4d19-ae51-9c1bb457d620" xmlns:meta="Editor">
+	<Root meta:RefKey="Loop">45e55cc9-cb60-4113-8680-e74d9a8a10c2</Root>
+	<Actions>
+		<LightAnimGraph>
+			<Condition>1</Condition>
+			<Slot>orb_light</Slot>
+			<classID>LightAnimGraph</classID>
+			<Light meta:RefKey="Light">
+				<Colour>223,255,254,255</Colour>
+				<Brightness>0.6</Brightness>
+				<Range>1.3</Range>
+			</Light>
+		</LightAnimGraph>
+	</Actions>
+	<NodeMap>
+		<Loop meta:X="230" meta:Y="0" GUID="45e55cc9-cb60-4113-8680-e74d9a8a10c2">
+			<Name>Idle</Name>
+			<Animation>idle</Animation>
+			<classID>Loop</classID>
+			<Transitions>
+				<Transition>
+					<Condition>1</Condition>
+					<Next meta:RefKey="Loop">709609d2-b39b-4e1e-8033-d15c6e5e1d5f</Next>
+				</Transition>
+				<Transition>
+					<Condition>1</Condition>
+					<Next meta:RefKey="Anim">af7e60e4-b953-4b2c-9081-d8d4e3221764</Next>
+				</Transition>
+			</Transitions>
+			<RandomizeStart>true</RandomizeStart>
+		</Loop>
+		<Loop meta:X="390" meta:Y="-285" GUID="709609d2-b39b-4e1e-8033-d15c6e5e1d5f">
+			<Name>Walk</Name>
+			<Animation>walk</Animation>
+			<classID>Loop</classID>
+			<Transitions>
+				<Transition>
+					<Condition>1</Condition>
+					<Next meta:RefKey="Loop">45e55cc9-cb60-4113-8680-e74d9a8a10c2</Next>
+				</Transition>
+			</Transitions>
+		</Loop>
+		<Anim meta:X="495" meta:Y="345" GUID="af7e60e4-b953-4b2c-9081-d8d4e3221764">
+			<Name>Attack Start</Name>
+			<Animation>attack_start</Animation>
+			<classID>Anim</classID>
+			<Next meta:RefKey="Loop">aa78d171-60e2-4641-b3ad-32df17ea16d2</Next>
+		</Anim>
+		<Loop meta:X="767" meta:Y="345" GUID="aa78d171-60e2-4641-b3ad-32df17ea16d2">
+			<Name>Attack Loop</Name>
+			<Animation>attack_loop</Animation>
+			<classID>Loop</classID>
+			<Transitions>
+				<Transition>
+					<Condition>1</Condition>
+					<Next meta:RefKey="Anim">e9338916-370b-482b-8f92-acfcf9c7a914</Next>
+				</Transition>
+			</Transitions>
+			<RandomizeStart>true</RandomizeStart>
+		</Loop>
+		<Anim meta:X="1051" meta:Y="345" GUID="e9338916-370b-482b-8f92-acfcf9c7a914">
+			<Name>Attack End</Name>
+			<Animation>attack_end</Animation>
+			<classID>Anim</classID>
+			<Next meta:RefKey="Loop">45e55cc9-cb60-4113-8680-e74d9a8a10c2</Next>
+		</Anim>
+	</NodeMap>
+</AnimationGraph>
