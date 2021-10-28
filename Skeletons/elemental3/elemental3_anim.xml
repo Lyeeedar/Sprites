@@ -47,7 +47,7 @@
 			<Next meta:RefKey="Loop">aa78d171-60e2-4641-b3ad-32df17ea16d2</Next>
 		</Anim>
 		<Loop meta:X="767" meta:Y="345" GUID="aa78d171-60e2-4641-b3ad-32df17ea16d2">
-			<Name>Attack Loop</Name>
+			<Name>Attack</Name>
 			<Animation>attack_loop</Animation>
 			<classID>Loop</classID>
 			<Transitions>
